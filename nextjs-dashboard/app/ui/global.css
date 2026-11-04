@@ -1,3 +1,4 @@
+/* base component fo the global css is already rendered so its showing no sign of error */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
